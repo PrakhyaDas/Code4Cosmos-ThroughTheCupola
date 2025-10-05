@@ -21,8 +21,8 @@ python main.py
 ```
 
 ## Team
-Prakhya - 11th Grade, KV
-Akanksha - 3rd year B.Tech ECE, GITAM University
+### Prakhya - 11th Grade, KV
+### Akanksha - 3rd year B.Tech ECE, GITAM University
 
 ## License
 MIT License
